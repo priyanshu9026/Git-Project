@@ -1,5 +1,5 @@
 let api =
-    "https://api.github.com/users/";
+    "https://api.github.com/users/priyanshu9026";
 
 let fetch =
     document.createElement("script");
